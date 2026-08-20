@@ -9,10 +9,10 @@ A Databricks project "Exchange-Rate-Frankfurter-DB" implementing a Medallion Arc
 
 ## Key Analysis & Gold Layer Deliverables
 
-### 1. Customer Segmentation & Lifetime Behavior (gold.dim_customers)
+### 1. 
 
 ### Key Insights
 
-### 2. Product Economics & Performance Analytics (gold.dim_products)
+### 2. 
 
 ### Key Insights
